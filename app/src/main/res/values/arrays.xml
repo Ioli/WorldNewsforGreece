@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="section">
+
+        <item>"Greece"</item>
+
+        <item>"Greece Sport</item>
+
+        <item>"Greece Politics</item>
+
+        <item>"Greece Film"</item>
+
+        <item>"Greece Music"</item>
+
+        <item>"Greece Games"</item>
+
+        <item>"Greece Books"</item>
+
+        <item>"Greece Economics"</item>
+
+
+    </string-array>
+
+</resources>
